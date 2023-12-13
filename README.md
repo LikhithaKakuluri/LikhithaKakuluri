@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Likhitha Kakuluri</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Data Scientist Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://i.pinimg.com/originals/6d/02/69/6d026920536e52a0443b979721d1d7eb.png">
+<img align="right" alt="coding" width="200"  src="https://i.pinimg.com/originals/6d/02/69/6d026920536e52a0443b979721d1d7eb.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithakakuluri&label=Profile%20views&color=0e75b6&style=flat" alt="likhithakakuluri" /> </p>
 
